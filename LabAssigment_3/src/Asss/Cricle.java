@@ -16,7 +16,7 @@ import java.io.*;
 	    }
 	
 	}
-	public class Circle { 
+	public class Cricle { 
     public static void main(String[] args)
     {
 
