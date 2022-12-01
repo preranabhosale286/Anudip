@@ -5,10 +5,8 @@ import java.io.IOException;
 import java.util.Scanner;
 public class File_Ques1
 {
-
 	public static void main(String[] args) throws IOException
-	{
-		
+	{		
 		File obj1=new File("C:\\New folder\\Demo file.txt");
 		Scanner sc = new Scanner(obj1);
 		int counter = 0;

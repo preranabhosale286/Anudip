@@ -15,21 +15,14 @@ package A;
 			{
 				this.acconted_name = acconted_name;
 			}
-			
-			//getter method of account_balance
 			public long getAccount_balance()
 			{
 				return account_balance;
 			}
-			
-			//setter method of account_balance
 			public void setAccount_balance(long account_balance)
 			{
 				this.account_balance = account_balance;
 			}
-			  
-			
-			//deposite() method to deposite amount in account_balnace
 			public void deposite()
 			{
 				long amt=5000;
