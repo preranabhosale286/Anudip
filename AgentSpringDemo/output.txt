@@ -1,7 +1,0 @@
-
-Agent_id   Agent_name       Agent_salary
-102	     Shubham	           27000
-103	      Prerana	           21000
-104	       Rakhee        	    44000
-105	          Ajay             	54000
-		
